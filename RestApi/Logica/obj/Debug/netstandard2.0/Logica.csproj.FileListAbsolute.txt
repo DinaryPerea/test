@@ -1,0 +1,11 @@
+C:\Users\Dinar\source\repos\RestApi\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+C:\Users\Dinar\source\repos\RestApi\Logica\bin\Debug\netstandard2.0\Logica.dll
+C:\Users\Dinar\source\repos\RestApi\Logica\bin\Debug\netstandard2.0\Logica.pdb
+C:\Users\Dinar\source\repos\RestApi\Logica\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\Dinar\source\repos\RestApi\Logica\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\Dinar\source\repos\RestApi\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+C:\Users\Dinar\source\repos\RestApi\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+C:\Users\Dinar\source\repos\RestApi\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+C:\Users\Dinar\source\repos\RestApi\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+C:\Users\Dinar\source\repos\RestApi\Logica\obj\Debug\netstandard2.0\Logica.dll
+C:\Users\Dinar\source\repos\RestApi\Logica\obj\Debug\netstandard2.0\Logica.pdb

@@ -1,0 +1,8 @@
+C:\Users\Dinar\source\repos\RestApi\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+C:\Users\Dinar\source\repos\RestApi\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\Dinar\source\repos\RestApi\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\Dinar\source\repos\RestApi\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+C:\Users\Dinar\source\repos\RestApi\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Dinar\source\repos\RestApi\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+C:\Users\Dinar\source\repos\RestApi\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+C:\Users\Dinar\source\repos\RestApi\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
